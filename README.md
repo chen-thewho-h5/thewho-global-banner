@@ -1,6 +1,6 @@
 # thewho-global-banner
 
-##1、
+## 1、
 ```
 npm install
 ```
